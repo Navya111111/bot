@@ -1,0 +1,8 @@
+streamlit
+duckdb
+pandas
+python-dotenv
+
+pydantic==1.10.26
+langchain-core==0.2.16
+langchain-groq==0.1.5
